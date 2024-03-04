@@ -1,26 +1,25 @@
 # Advanced Cognitive Neuroscience MEG & fMRI Analysis
 
 ## Overview
-This repository contains analytical work for the Advanced Cognitive Neuroscience course at Aarhus University. It focuses on analyzing MEG and fMRI brain scans from thought-reading experiments conducted at Aarhus Skejby Hospital, Denmark. The workshop emphasizes the practical application of cognitive neuroscience techniques to understand brain function during specific cognitive tasks.
+This repository is part of the coursework for the Advanced Cognitive Neuroscience course at Aarhus University. It centers around a sophisticated analysis of MEG and fMRI brain scans, applying thought-reading experiments data obtained in collaboration with Aarhus Skejby Hospital, Denmark. The analysis employs cutting-edge techniques to decipher brain activity patterns related to cognitive tasks.
 
 ## Data
-The dataset comprises anonymized MEG and fMRI brain scans. Please note that while the data is anonymized to protect participant privacy, it is not available publicly due to ethical and privacy considerations.
-## Project Structure
-- `MEG_Analysis.ipynb`: Jupyter Notebook detailing the analysis of MEG data.
-- `fMRI_Analysis.ipynb`: Jupyter Notebook focusing on fMRI data analysis.
-- `Data_Annotation.ipynb`: Notebook describing the process of data anonymization and preparation.
+The analysis is based on anonymized MEG and fMRI brain scans. Due to ethical and privacy concerns, the dataset is anonymized and not publicly available. 
+
+## Analysis Notebook
+- `rafs_17_Nilearn_faceWord_classification_searchlight_group.ipynb`: This Jupyter Notebook delves into the classification of face vs. word recognition tasks using Nilearn, focusing on a group-level searchlight analysis. The notebook illustrates the methodological steps and insights drawn from the brain scans.
 
 ## Getting Started
-To explore this project:
-1. Clone this repository to your local machine.
-2. Ensure you have appropriate scientific computing packages installed (`numpy`, `scipy`, `matplotlib`, `pandas`, `nilearn`, etc.).
-3. Open the `.ipynb` files in JupyterLab or Jupyter Notebook to view the analyses.
+To explore the analysis:
+1. Clone this repository.
+2. Ensure your environment has the necessary Python packages installed (`nilearn`, `numpy`, `scipy`, `matplotlib`).
+3. Open `rafs_17_Nilearn_faceWord_classification_searchlight_group.ipynb` in JupyterLab or Jupyter Notebook to view and run the analysis.
 
 ## Contributing
-This project is part of an academic course assignment, and contributions are limited to course participants and collaborators.
+This project is a part of a university course assignment. Contributions are welcome from course participants and collaborating researchers.
 
 ## License
-This project is shared for educational purposes.
+The content is provided for educational and research purposes. Ethical and privacy considerations must be respected, especially regarding data access and use.
 
 ## Acknowledgements
-Special thanks to Aarhus Skejby Hospital for providing the data and to the course instructors and participants at Aarhus University's Advanced Cognitive Neuroscience course for their guidance and support.
+I thank Aarhus Skejby Hospital for the data and acknowledge the support from instructors and peers in the Advanced Cognitive Neuroscience course at Aarhus University.
