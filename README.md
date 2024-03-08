@@ -13,7 +13,7 @@ The analysis is based on anonymized MEG and fMRI brain scans. Due to ethical and
 To explore the analysis:
 1. Clone this repository.
 2. Ensure your environment has the necessary Python packages installed (`nilearn`, `numpy`, `scipy`, `matplotlib`).
-3. Open `rafs_17_Nilearn_faceWord_classification_searchlight_group.ipynb` in JupyterLab or Jupyter Notebook to view and run the projects analysis.
+3. Open `rafs_17_Nilearn_faceWord_classification_searchlight_group.ipynb` in JupyterLab or Jupyter Notebook to view and run the analysis.
 
 ## Contributing
 This project is a part of a university course assignment. Contributions are welcome from course participants and collaborating researchers.
