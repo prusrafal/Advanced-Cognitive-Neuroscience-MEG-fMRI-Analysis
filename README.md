@@ -16,7 +16,7 @@ To explore the analysis:
 3. Open `rafs_17_Nilearn_faceWord_classification_searchlight_group.ipynb` in JupyterLab or Jupyter Notebook to view and run the analysis.
 
 ## Contributing
-This project is a part of AU university course assignment. Contributions are welcome from course participants and collaborating researchers.
+This project is a part of the AU university course assignment. Contributions are welcome from course participants and collaborating researchers.
 
 ## License
 The content is provided for educational and research purposes. Ethical and privacy considerations must be respected, especially regarding data access and use.
