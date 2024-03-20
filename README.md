@@ -10,7 +10,7 @@ The analysis is based on anonymized MEG and fMRI brain scans. Due to ethical and
 - `rafs_17_Nilearn_faceWord_classification_searchlight_group.ipynb`: This Jupyter Notebook delves into the classification of face vs. word recognition tasks using Nilearn, focusing on a group-level searchlight analysis. The notebook illustrates the methodological steps and insights drawn from the brain scans.
 
 ## Getting Started
-To explore the analysis:
+To explore this analysis:
 1. Clone this repository.
 2. Ensure your environment has the necessary Python packages installed (`nilearn`, `numpy`, `scipy`, `matplotlib`).
 3. Open `rafs_17_Nilearn_faceWord_classification_searchlight_group.ipynb` in JupyterLab or Jupyter Notebook to view and run the analysis.
