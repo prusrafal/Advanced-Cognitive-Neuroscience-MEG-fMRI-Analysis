@@ -19,7 +19,7 @@ To explore this analysis:
 This project is a part of the AU university course assignment. Contributions are welcome from course participants and collaborating researchers.
 
 ## License
-The content is provided for educational and research purposes. Ethical and privacy considerations must be respected, especially regarding data access and use.
+The content is provided for the educational and research purposes. Ethical and privacy considerations must be respected, especially regarding data access and use.
 
 ## Acknowledgements
 I thank Aarhus Skejby Hospital for the data and acknowledge the support from instructors and peers in the Advanced Cognitive Neuroscience course at Aarhus University.
